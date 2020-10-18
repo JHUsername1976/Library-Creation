@@ -1,2 +1,2 @@
-# Library-Creation
-Collision and bounceOff algorithms: learning how to make basic libraries too.
+# collisionAlgorithm
+Algorithm to detect collision between two objects
